@@ -1,0 +1,6 @@
+{
+  "name": "heroku-php-boilerplate",
+  "description": "A clone of Heroku's php-getting-started with an emptied web (dist) directory",
+  "repository": "https://github.com/smarter-js/heroku-php-boilerplate.git",
+  "addons": []
+}
